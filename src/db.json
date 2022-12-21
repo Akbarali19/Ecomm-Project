@@ -1,0 +1,29 @@
+{
+  "seller": [
+    {
+      "Name": "Akbarali",
+      "Email": "abc@gmail.com",
+      "Password": "123",
+      "id": 1
+    },
+    {
+      "Name": "Akbarali",
+      "Email": "abc@gmail.com",
+      "Password": "123",
+      "id": 2
+    },
+    {
+      "Name": "ali",
+      "Email": "abc@gmail.com",
+      "Password": "123",
+      "id": 3
+    },
+    {
+      "Name": "ali",
+      "Email": "abc@gmail.com",
+      "Password": "123",
+      "address": "badarpur",
+      "id": 4
+    }
+  ]
+}

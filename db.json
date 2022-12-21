@@ -1,0 +1,127 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "Name": "ali1",
+    "Email": "abc@gmail.com",
+    "Password": "123",
+    "address": "badarpur"
+  },
+  "seller": [
+    {
+      "Name": "ali",
+      "Email": "a@abc.com",
+      "Password": "123",
+      "id": 1
+    },
+    {
+      "Name": "ali",
+      "Email": "a@abc.com",
+      "Password": "123",
+      "id": 2
+    },
+    {
+      "Name": "ali124",
+      "Email": "a@abc.com",
+      "Password": "123",
+      "id": 3
+    },
+    {
+      "Name": "ali1",
+      "Email": "abc@gmail.com",
+      "Password": "123",
+      "address": "badarpur",
+      "id": 4
+    },
+    {
+      "Name": "akbarali",
+      "Email": "a@gmail.com",
+      "Password": "123",
+      "id": 5
+    },
+    {
+      "Name": "akbarali",
+      "Email": "a@gmail.com",
+      "Password": "123",
+      "id": 6
+    },
+    {
+      "Name": "akbarali",
+      "Email": "a@gmail.com",
+      "Password": "123",
+      "id": 7
+    },
+    {
+      "Name": "akbarali",
+      "Email": "a@abc.com",
+      "Password": "123",
+      "id": 8
+    },
+    {
+      "Name": "akbarali",
+      "Email": "a@abc.com",
+      "Password": "123",
+      "id": 9
+    },
+    {
+      "Name": "akbarali",
+      "Email": "a@abc.com",
+      "Password": "123",
+      "id": 10
+    },
+    {
+      "Name": "akbarali",
+      "Email": "a@abc.com",
+      "Password": "123",
+      "id": 11
+    },
+    {
+      "Name": "akbarali",
+      "Email": "a@abc.com",
+      "Password": "123",
+      "id": 12
+    },
+    {
+      "Name": "akbarali",
+      "Email": "a@abc.com",
+      "Password": "123",
+      "id": 13
+    },
+    {
+      "Name": "akbarali",
+      "Email": "a@abc.com",
+      "Password": "123",
+      "id": 14
+    },
+    {
+      "Name": "akbarali",
+      "Email": "a@abc.com",
+      "Password": "123",
+      "id": 15
+    },
+    {
+      "Name": "akbarali",
+      "Email": "a@abc.com",
+      "Password": "123",
+      "id": 16
+    },
+    {
+      "Name": "irfan",
+      "Email": "i@abd",
+      "Password": "123",
+      "id": 17
+    }
+  ]
+}
