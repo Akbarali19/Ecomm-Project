@@ -1,24 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "Name": "ali1",
-    "Email": "abc@gmail.com",
-    "Password": "123",
-    "address": "badarpur"
-  },
   "seller": [
     {
       "Name": "ali",
@@ -27,101 +7,72 @@
       "id": 1
     },
     {
-      "Name": "ali",
+      "Name": "akbarali",
       "Email": "a@abc.com",
       "Password": "123",
       "id": 2
     },
     {
-      "Name": "ali124",
+      "Name": "irfan",
       "Email": "a@abc.com",
       "Password": "123",
       "id": 3
     },
     {
-      "Name": "ali1",
-      "Email": "abc@gmail.com",
-      "Password": "123",
-      "address": "badarpur",
+      "Name": "",
+      "Email": "",
+      "Password": "",
       "id": 4
     },
     {
-      "Name": "akbarali",
-      "Email": "a@gmail.com",
+      "Name": "akbar",
+      "Email": "as",
       "Password": "123",
       "id": 5
     },
     {
-      "Name": "akbarali",
-      "Email": "a@gmail.com",
+      "Name": "ahemad",
+      "Email": "a@123",
       "Password": "123",
       "id": 6
+    }
+  ],
+  "products": [
+    {
+      "Name": "Iphone 14",
+      "Price": "100000",
+      "Colour": "BLACK",
+      "Category": "mobile",
+      "Description": "apple product",
+      "Image": "https://birchtree.me/content/images/size/w1920/2021/06/007-copy.jpg",
+      "id": 1
     },
     {
-      "Name": "akbarali",
-      "Email": "a@gmail.com",
-      "Password": "123",
-      "id": 7
+      "Name": "Samsung a31",
+      "Price": "20999",
+      "Colour": "BLACK",
+      "Category": "mobile",
+      "Description": "45879446",
+      "Image": "https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/articleimages/2020/07/11/SGA31%20CoS%201-1594485284.jpg?itok=eee4t-q4",
+      "id": 2
     },
     {
-      "Name": "akbarali",
-      "Email": "a@abc.com",
-      "Password": "123",
-      "id": 8
+      "Name": "ali",
+      "Price": "20999",
+      "Colour": "BLACK",
+      "Category": "mobile",
+      "Description": "rtegfd dfgfdewv",
+      "Image": "https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/articleimages/2020/07/11/SGA31%20CoS%201-1594485284.jpg?itok=eee4t-q4",
+      "id": 3
     },
     {
-      "Name": "akbarali",
-      "Email": "a@abc.com",
-      "Password": "123",
-      "id": 9
-    },
-    {
-      "Name": "akbarali",
-      "Email": "a@abc.com",
-      "Password": "123",
-      "id": 10
-    },
-    {
-      "Name": "akbarali",
-      "Email": "a@abc.com",
-      "Password": "123",
-      "id": 11
-    },
-    {
-      "Name": "akbarali",
-      "Email": "a@abc.com",
-      "Password": "123",
-      "id": 12
-    },
-    {
-      "Name": "akbarali",
-      "Email": "a@abc.com",
-      "Password": "123",
-      "id": 13
-    },
-    {
-      "Name": "akbarali",
-      "Email": "a@abc.com",
-      "Password": "123",
-      "id": 14
-    },
-    {
-      "Name": "akbarali",
-      "Email": "a@abc.com",
-      "Password": "123",
-      "id": 15
-    },
-    {
-      "Name": "akbarali",
-      "Email": "a@abc.com",
-      "Password": "123",
-      "id": 16
-    },
-    {
-      "Name": "irfan",
-      "Email": "i@abd",
-      "Password": "123",
-      "id": 17
+      "Name": "Samsung a31",
+      "Price": "20999",
+      "Colour": "BLACK",
+      "Category": "mobile",
+      "Description": "qwewwew",
+      "Image": "https://media.idownloadblog.com/wp-content/uploads/2022/09/Purple-iPhone-14-wallpaper-idownloadblog-mockup-1536x1131.png",
+      "id": 4
     }
   ]
 }

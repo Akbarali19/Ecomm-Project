@@ -1,0 +1,24 @@
+.product-list
+{
+  text-align: center;
+color: blueviolet;
+}
+
+table{
+
+  display: -webkit-inline-box;
+  color: blueviolet;
+  border-collapse: collapse;
+}
+table td,table th{
+
+  text-align: left;
+  border:1px solid blueviolet;
+  padding: 10px;
+  min-height: auto;
+
+}
+img{
+  width: 100px;
+  height: 100px;
+}

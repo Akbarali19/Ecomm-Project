@@ -1,0 +1,40 @@
+{
+  "seller": [
+    {
+      "Name": "ali",
+      "Email": "a@abc.com",
+      "Password": "123",
+      "id": 1
+    },
+    {
+      "Name": "akbarali",
+      "Email": "a@abc.com",
+      "Password": "123",
+      "id": 2
+    },
+    {
+      "Name": "irfan",
+      "Email": "a@abc.com",
+      "Password": "123",
+      "id": 3
+    },
+    {
+      "Name": "",
+      "Email": "",
+      "Password": "",
+      "id": 4
+    },
+    {
+      "Name": "akbar",
+      "Email": "as",
+      "Password": "123",
+      "id": 5
+    },
+    {
+      "Name": "ahemad",
+      "Email": "a@123",
+      "Password": "123",
+      "id": 6
+    }
+  ]
+}
